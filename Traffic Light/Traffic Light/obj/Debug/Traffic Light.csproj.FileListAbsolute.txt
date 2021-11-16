@@ -1,0 +1,10 @@
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\bin\Debug\Traffic Light.exe.config
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\bin\Debug\Traffic Light.exe
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\bin\Debug\Traffic Light.pdb
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\obj\Debug\Traffic Light.csproj.AssemblyReference.cache
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\obj\Debug\Traffic_Light.Form1.resources
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\obj\Debug\Traffic_Light.Properties.Resources.resources
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\obj\Debug\Traffic Light.csproj.GenerateResource.cache
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\obj\Debug\Traffic Light.csproj.CoreCompileInputs.cache
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\obj\Debug\Traffic Light.exe
+C:\Users\Abraham Calvillo\source\repos\Traffic Light\Traffic Light\obj\Debug\Traffic Light.pdb
